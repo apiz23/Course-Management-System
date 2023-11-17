@@ -1,0 +1,16 @@
+------------------------------------------------
+Detail information:
+
+Name : HAFIZUDDIN
+Course Name : Information Technology
+Section : 3
+Date : 15/02/2023
+Time : 07:42:04
+------------------------------------------------
+
+No	Course		 	     Credit Hour
+1	ENGLISH                    		3
+
+------------------------------------------------
+Total Credit Hour: 3
+------------------------------------------------
